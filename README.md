@@ -43,4 +43,4 @@ The objective of this notebook is to apply the PSA optimization algorithm (for m
 
 **Description:**
 
-The objective of this notebook is to create the tables that feed the PowerBI Employee Retention Model, which can be found in the PowerBI section of this GitHub repository. The idea of the project is to segment employees from a test dataset based on certain characteristics, and then calculate for each group which variables are most important when deciding whether to leave the company.
+The objective of this notebook is to create the tables that feed the PowerBI Employee Retention Model, which can be found in the PowerBI section of this GitHub ([Link to powerBI dashboard](https://github.com/Sebastian21Ahumada/powerbi-dashboards)). The idea of the project is to segment employees from a test dataset based on certain characteristics, and then calculate for each group which variables are most important when deciding whether to leave the company.
