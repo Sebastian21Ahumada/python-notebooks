@@ -27,7 +27,7 @@ For that I took all the population and compare them to try to identify outliers 
 
 For privacy reasons real data were change for data created in the same notebook.
 
-## Pendulum Search Algorithm 
+## Pendulum Search Algorithm (PSA)
 
 **Author:** Sebastian Ahumada  
 **Date:** June 2022 
